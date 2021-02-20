@@ -1,3 +1,8 @@
+````Student Notes!~~~
+This assignment focuses on the important of syntax flow as well as the importance of accessibility for company sites to make the browsing experience functional for all users regardless of disability. This assignment also focuses on the importance of consolidating code whenever possible and commenting out sections to make reading and navigating the code as easy as possible for the source creator as well as for anyone else using the code in the future.
+
+
+
 # 01 HTML CSS Git: Code Refactor
 
 ## Your Task
@@ -121,3 +126,4 @@ You are required to submit the following for review:
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+````
